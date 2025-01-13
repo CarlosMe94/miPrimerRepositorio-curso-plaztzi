@@ -1,0 +1,14 @@
+{
+  "name": "miprimerrepositorio-curso-plaztzi",
+  "version": "1.0.0",
+  "description": "Esto es un repositorio creado para el curso de platzi git-github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.6.7"
+  }
+}
